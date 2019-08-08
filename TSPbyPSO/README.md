@@ -1,4 +1,4 @@
-Solving TSP by Particle Swarm Optimization 
+Solving TSP by Simulated Annealing
 
 Input: coordinates of cities
 
@@ -6,4 +6,6 @@ Output: the scheme of "traveling"
 
 Coordinates of Cities: citycoor.xlsx.
 
-MAIN FUNCTION: GA_1 or GA_2.
+MAIN FUNCTION:PSO__TSP
+
+
